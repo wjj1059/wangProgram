@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4e0b35a-9ac4-4e9c-875c-d31494aafa58" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="blog: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="XML  File" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Environment\apache-maven-3.8.1\maven-repo" />
+        <option name="mavenHome" value="D:/Environment/apache-maven-3.8.1" />
+        <option name="userSettingsFile" value="D:\Environment\apache-maven-3.8.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="257stkPlJ5aeup7YkM1GQHTBUo5" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/blog-api/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.4642857" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\web项目\blog\blog_partent\blog-api\src\main\resources" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.wang.blog.vo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\web项目\blog\blog_partent\blog-api\src\main\resources\com\wang\blog\dao\mapper" />
+      <recent name="D:\web项目\blog\blog_partent\blog-api\src\main\resources\com\wang\blog\dao" />
+      <recent name="D:\web项目\blog\blog_partent\blog-api\src\main\resources\com\wang\blog" />
+      <recent name="D:\web项目\blog\blog_partent\blog-api\src\main\resources\com\wang\dao\mapper" />
+      <recent name="D:\web项目\blog\blog_partent\blog-api\src\main\resources\com.wang.blog.dao.mapper\com" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.BlogApp">
+    <configuration name="JwtUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wang.blog.utils.JwtUtils" />
+      <module name="blog-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wang.blog.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QiNiuConfig" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wang.blog.config.QiNiuConfig" />
+      <module name="blog-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wang.blog.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlogApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="blog-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wang.blog.BlogApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="blog_partent" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wang.blog.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.BlogApp" />
+        <item itemvalue="Application.QiNiuConfig" />
+        <item itemvalue="Application.JwtUtils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@6449b0b2" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4e0b35a-9ac4-4e9c-875c-d31494aafa58" name="Default Changelist" comment="" />
+      <created>1644889675814</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644889675814</updated>
+      <workItem from="1644889726584" duration="9383000" />
+      <workItem from="1644921022130" duration="121016000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="691" y="48" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1644998061323">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="691" y="48" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1644998061323" />
+    <state x="961" y="126" key="#com.intellij.ide.util.MemberChooser" timestamp="1645424893377">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="961" y="126" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1645424893377" />
+    <state x="806" y="280" width="439" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1644895237119">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="806" y="280" width="439" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1644895237119" />
+    <state x="840" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1645147387565">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="840" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1645147387565" />
+    <state width="437" height="466" key="DebuggerActiveHint" timestamp="1645409073218">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="437" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1645409073218" />
+    <state width="1130" height="459" key="GridCell.Tab.0.bottom" timestamp="1645431490188">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1130" height="459" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1645431490188" />
+    <state width="1130" height="459" key="GridCell.Tab.0.center" timestamp="1645431490187">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1130" height="459" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1645431490187" />
+    <state width="1130" height="459" key="GridCell.Tab.0.left" timestamp="1645431490187">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1130" height="459" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1645431490187" />
+    <state width="1130" height="459" key="GridCell.Tab.0.right" timestamp="1645431490188">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1130" height="459" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1645431490188" />
+    <state width="1130" height="459" key="GridCell.Tab.1.bottom" timestamp="1645431490188">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1130" height="459" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1645431490188" />
+    <state width="1130" height="459" key="GridCell.Tab.1.center" timestamp="1645431490188">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1130" height="459" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1645431490188" />
+    <state width="1130" height="459" key="GridCell.Tab.1.left" timestamp="1645431490188">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1130" height="459" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1645431490188" />
+    <state width="1130" height="459" key="GridCell.Tab.1.right" timestamp="1645431490188">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1130" height="459" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1645431490188" />
+    <state width="1130" height="459" key="GridCell.Tab.2.bottom" timestamp="1645431490189">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1130" height="459" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1645431490189" />
+    <state width="1130" height="459" key="GridCell.Tab.2.center" timestamp="1645431490189">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1130" height="459" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1645431490189" />
+    <state width="1130" height="459" key="GridCell.Tab.2.left" timestamp="1645431490189">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1130" height="459" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1645431490189" />
+    <state width="1130" height="459" key="GridCell.Tab.2.right" timestamp="1645431490189">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1130" height="459" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1645431490189" />
+    <state width="212" height="477" key="HiddenNamespacesPopup" timestamp="1644998072800">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="212" height="477" key="HiddenNamespacesPopup/0.0.1536.824@0.0.1536.824" timestamp="1644998072800" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1644980654960">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1644980654960" />
+    <state x="377" y="112" width="782" height="600" key="find.popup" timestamp="1645204836803">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="377" y="112" width="782" height="600" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1645204836803" />
+    <state x="356" y="104" key="new project wizard" timestamp="1644891959337">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="356" y="104" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1644891959337" />
+    <state x="754" y="32" key="refactoring.ChangeSignatureDialog" timestamp="1645347574314">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="754" y="32" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1645347574314" />
+    <state x="638" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1645429582724">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="638" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1645429582724" />
+  </component>
+</project>

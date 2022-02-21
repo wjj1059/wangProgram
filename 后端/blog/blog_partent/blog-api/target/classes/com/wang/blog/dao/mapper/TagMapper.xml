@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.wang.blog.dao.mapper.TagMapper">
+
+    <select id="findTagsByArticleId" resultType="com.wang.blog.dao.pojo.Tag" parameterType="long">
+select id,avatar,tag_name as  tagName from ms_tag
+where id in (select tag_id from ms_article_tag where article_id = #{articleId});
+    </select>
+    <select id="findHostTagIds" resultType="java.lang.Long" parameterType="int">
+select tag_id from ms_article_tag group by tag_id order by count(*)  desc limit #{limit} ;
+    </select>
+    <select id="findTagsByTagsIds" resultType="com.wang.blog.dao.pojo.Tag" parameterType="list">
+        select id,tag_name as  tagName from ms_tag
+        where id in
+        <foreach collection="tagIds" item="tagId" separator="," open="(" close=")" >
+        #{tagId}
+        </foreach>
+    </select>
+</mapper>
